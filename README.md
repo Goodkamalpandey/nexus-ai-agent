@@ -1,4 +1,4 @@
-# SAInexus Agent MVP
+# AUm AI : Nexus Agent MVP
 
 A multi-model agent orchestration MVP using OpenAI, Gemini, and synthetic data.
 This project is structured as a monorepo with separate components for the backend API, the frontend application, and a monitoring dashboard.
