@@ -1,6 +1,6 @@
 # Nexus Ai Agent 
 
-Nexus Agent is an MVP for orchestrating multiple AI models like OpenAI GPT and Google Gemini, combined with synthetic data. It features a modular monorepo structure with a backend API, frontend app, and monitoring dashboard to build intelligent autonomous agents efficiently
+Nexus AI Agent is an MVP multi-model agent orchestration platform that integrates AI models like OpenAI GPT and Google Gemini with synthetic data. Built as a monorepo, it includes a backend API, frontend app, and monitoring dashboard to enable scalable, autonomous agents handling complex workflows efficiently. This project demonstrates effective orchestration of advanced AI for real-world intelligent systems.
 
 ## ✨ Features
 
